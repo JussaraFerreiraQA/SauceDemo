@@ -22,15 +22,10 @@ Senha: secret_sauce
 * Teste de validação do produto backpack 
 * Teste de validação de tela com checkout sem Postal Code
 
-## Execução dos Testes Mobilo
+## Execução dos Testes Mobile
 
 * Teste de
 * Teste de 
 * Teste de
 * Teste de
 
-*
-*
-*
-*
-*
